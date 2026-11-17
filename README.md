@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shravan Pujari
 
-🎓 Computer Science Student | Aspiring Software Developer
+🎓 Artificial Intelligence and Machine Learning Student | Aspiring Software Developer
 
 I'm a student passionate about learning programming, web development, and machine learning by building practical projects.
 
