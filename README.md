@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Shravan Pujari
 
-🎓 Artificial Intelligence and Machine Learning Student | Aspiring Software Developer
+🎓 Artificial Intelligence And Machine Learning Student | Aspiring Software Developer
 
 I'm a student passionate about learning programming, web development, and machine learning by building practical projects.
 
@@ -28,7 +28,7 @@ A web-based application that helps manage student placement records and provides
 - Flask
 - SQL
 - Machine Learning
-- Git & GitHub
+- Git, GitHub, VS Code, AntiGravity
 
 ### 🎯 My Goal
 
